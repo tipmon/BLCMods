@@ -1,4 +1,4 @@
-# Funkzone 1.7
+# Funkzone 1.7.1
 ## This is Funkzone, a mod made by me which you might also know me by Funkotron9000. 
 
 This is a silly rebalancing and overhaul mod made to really just make the game a mess. In its current state, Funkzone is a fast paced power trip meant to make the game feel like if you took Cruelty Squad and glued it to BL3! (Requires Command Extensions and Sanity Saver). 
@@ -12,3 +12,5 @@ This mod is not compatible with other text based overhauls, and I would advise a
 This is simply a .blcm mod, so it goes in Binaries like other .txt mods.
 ### Important Gameplay Info:
 I have labled different damage modifiers using very specific language in skill trees. You can get an idea of how your damage formula works based on stuff like "global damage", "enemies take", "base damage", and what specific modifiers are involved in your boosts. 
+
+## Damage Formula Doc: https://docs.google.com/document/d/1lWPXXFE-qXecCli7pkQpKNKWH24b-V3IG6Xa3NsXb80/edit?usp=sharing
