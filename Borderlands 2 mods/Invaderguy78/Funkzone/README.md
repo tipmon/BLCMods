@@ -8,6 +8,7 @@ I have added numerous pieces of new gear for you to mess with and touched up on 
 
 ### Compatability: 
 This mod is not compatible with other text based overhauls, and I would advise against using it with BL2Fix, or mobs that boost drop rates or XP rates, these are things I already touched up on. 
+*If you are using text mod loader, this mod will not automatically exec properly. Make sure to manually exec it yourself because I have seen issues with it not running the CE commands.*
 ### Installation: 
 This is simply a .blcm mod, so it goes in Binaries like other .txt mods.
 ### Important Gameplay Info:
