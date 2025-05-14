@@ -1,0 +1,52 @@
+Known issues:
+
+(General)
+New game crashes (If you want to use a new character > Create new character before applying Mod)
+Anarchy loss of stacks on down sometimes doesnt work correctly (A little strong, just often enough but not too consistently)
+Discord Icon displays when it shouldnt sometimes post respec (effect is deactivated till skill is re obtained making it functional, just a visual issue).  Methods used to fix this so far have made coop allways crash and are undone. 
+FFYL time not applying I think (Defib skill)
+Death from above maybe scaled too high in normal
+General scaling might need tweaking for earlier playthroughs
+With Claws and Authentic Anarchy currently much weaker then one would think due to how they scale damage
+Focused Flow might be alot more penalising then expected for anarchy users (Needs testing)
+Interspersed outburst actualy is cooking up trouble now and is supposed to be a 1 point skill so both CookingUpTrouble and InterspersedOutburst need heavy class mod fixing.
+This mods reworked discord doesnt fix the way anarchy makes hyperion recoil and camera shake unbearable (In fact makes it worse). Top priority change.
+Electrical burn TrackedHudSlot misplaced
+
+(Coop)
+Death from above cooldown linked between players (As in Another player triggering the skill resets the cooldown for the other making it incredibly abuseable)
+Blood soaked shields shared health regen penalty shared
+Player joining with mod crashes game (join eachother in lobby and both execute the mod on the main menu before you continue)
+All new skills can not be obtained as a client in coop (Including Dastardly Defib, Teamwork is Dreamwork, Critical Control, Focused Flow, Red light runner, Shattered, Authentic Anarchist)
+
+
+To do (other then bug fixing):
+
+Scaling adjustments
+Implement different scaling for different playthroughs (normal, TVHM, UVHM) For better balance. 
+Fully implement Authentic Anarchist and Teamwork is Dreamwork skills (Functional but not final)
+Class mods (Currently NUMBER 1 for next major update) 
+Maybe maybe a tiny adjustment for anarchy stack loss to be a little slower however it is supposed to be heavily punishing (why bug is annoying)
+Change the way anarchy effect accuracy and mostly hyperion because omg the hyperion screen spasming I just dont like and I need to figure out
+
+
+Ideas/Maybes (basically early W.I.P or need FEEDBACK):
+
+Massive rework: Class mod overhall/rebalancing for new trees(100% happening)
+Medium rework: Apply a temporary effect to more pep when status effects are applied or maybe just when electrocute is applied.
+Medium rework: Apply a temporary effect to ElectricBurn when it is triggered instead of just attatching a Status Damage bonus.
+Medium rework(VeryUnsureOn): Give cooking up trouble smaller values but a stacking bonus
+Large rework: Implement supercharge (Mechanic currently in concept, A shock variation of kreigs self inflicted fire with multiple unique skills and effects planned (will not play simularly to kreig)).
+Large rework: Teamwork is Dreamwork, Allow deathtrap to spawn healing orbs(100% planned). Maybe add a player effect on crit kill(Unsure). Keep bullet heal(I like the idea of manually being capable of healing DT and it scaling with damage too).
+Small rework: Add ShortCircuit/ShockStorm trigger for player melee kills.
+Small rework: Might switch potent as a pony DT melee bonus for Movement speed for the two of you.
+Small rework: Adding an activation condition of deathtrap needing to be up for ElectricalOverload (rename: ElectricalOverlord)
+Scrapped for meantime/indefinitely: Skill that scales DeathTraps melee damage off of his movement speed increases.
+Concept: Potential implementation of a Movement speed scaling skill
+Concept: Potential implementation of a Magazine size scaling skill (either that or some additional reload speed bonuses around)
+Concept: The better half is up for a looking still, originally wanted it to have health regen on the upper half like a yin and yang effect with a skill rename.
+Concept: The originally CookingUpTrouble is up for a reimplimentation as a altered/different skill still (2 scrapped concepts)
+Small things: More Flavour texting
+
+
+
