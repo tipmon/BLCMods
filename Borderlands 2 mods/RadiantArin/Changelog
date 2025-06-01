@@ -1,0 +1,8 @@
+1.0.1 Changelog:
+• Increased Loot Midget Drop Chance from base 25% to 75%.
+• Reverted the lost EXP gains for enemies 6 levels above you. Also adjusted the EXP formula for after Level 50 to be less severe.
+• Changed the Critical Scaling of weaponry. Also adjusted the base value of certain weapons for their Critical stats. Hyperion parts now increase bonus Crit by 15% instead of .25x. Also removed Crit DMG Attributes from Rocket Launcher guns as they generally cannot Crit.
+• Addressed a reported concern that Rocket Launchers were not receiving Ammo Regeneration. This has been fixed.
+• Addressed a reported crash with the Outbreak Perfected. This has been fixed.
+• Changed the Hard Light's Child Projectiles so that they don't veer all over the place and miss their target.
+• Fixed a few of Zer0's skill descriptions, names, and Class Mods not showing the correct name for what they buff.
