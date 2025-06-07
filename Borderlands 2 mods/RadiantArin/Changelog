@@ -1,3 +1,13 @@
+1.0.2 Changelog:
+
+• Fixed a bug regarding Snowman DLC and Halloween DLC to scale to a minimum level 5 instead of 15. This would unintentionally not spawn any loot from the Snowman Chest. This has been fixed.
+• Fixed the bug with Binary Boss not dropping Pearls in UVHM. This has been fixed.
+• Revamped and reworked Axton's skill trees to be a bit more functional. Heavy changes were implemented into the Guerrila Turret and Demolition Man Trees, but Black Ops tree mostly remains unchanged with the exception of Mag-Lock, which now provides Shield Stats to Axton when Turret is deployed.
+• Decreased the amount of Magazine Size acquired from Backup Magazine. The Ammo Regen however, is left untouched.
+• Addressed a reported concern that some single shot Shotguns (Slow Hand/Swordsplosion) were not firing projectiles. This has been fixed.
+• Fixed Jakobs Pistols to not have the clunky animation.
+• Increased Deathtrap's base Melee Damage.
+
 1.0.1 Changelog:
 • Increased Loot Midget Drop Chance from base 25% to 75%.
 • Reverted the lost EXP gains for enemies 6 levels above you. Also adjusted the EXP formula for after Level 50 to be less severe.
