@@ -1,3 +1,13 @@
+1.1.1 Changelog:
+
+• Fixed a bug where Blue Class Mods were not getting their respective buffs.
+• x2 accessories should now properly give their +1 shot cost.
+• Two new Axton Skills: Forebearance has been changed to give Elemental Damage, and Deadened Nerves is now the new Grit. While under the effects of Deadened Nerves, you get increased Accuracy and Gun Damage for a brief time.
+• One new Gaige Skill: The Stare has been changed to Radioactive Beam, dealing Slag damage instead of Fire Damage, and increasing its overall damage and chance to apply a Status.
+• Three new Maya Changes: Quicken now boosts Override Cooldown and grants Passive Movement Speed, as well as Phaselock Cooldown Rate. Time Lock, an entirely new Skill, slows enemies to a crawl while Phaselock is active. Black Rose is changed to Movement Speed and Health reduction.
+• Reverted the Boozegun back to getting it's 6% Lifesteal.
+• UVHM Overhaul! Enemies in UVHM now take 25% more damage from Status. Slag is now 1.5x as effective, making the total extra damage from Slag ~62.5%. Enemies were also given the double Slag Status Duration treatment. Also decreased the severity of enemy Damage Reduction on higher OP levels, and decreased the amount of damage they deal to the player.
+
 1.1.0 Changelog:
 
 • Pearls. What else do you need?
