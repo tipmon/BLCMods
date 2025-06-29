@@ -1,3 +1,18 @@
+1.1.2 Changelog:
+
+• Increased the damage of Maya's Helios Skill by 65% (0.2 to 0.33).
+• Fixed the calculations of Law of Kinetics and From Within so that they more properly align with what's displayed on the card. From Within also now provides Reload Speed.
+• Krieg class Mods Reaper/Legendary Reaper now provide Gun Damage instead of Kill Skill Duration. The Class Mods Blister now provide Grenade Damage instead of Kill Skill Duration.
+• Changed Slayer of Terra COMs for each character to line up more with their general character traits.
+• Krieg skill changes. Embrace the Pain, Fuel the Rampage, and Pain is Power are new skills. 
+• Changed the Neogenator to have more Health Regen. This is primarily to balance enemy Shields and if they spawn with a Neogenator they will be more challenging to deal with.
+• Changed enemy Shield pools so that they don't spawn with Booster shields, as they benefit the player more than the enemy. As well, the Impaler and Whiskey Tango Foxtrot were removed from the enemy Shield pool. As well, increased enemy shield stats across the board to make them feel beefier.
+• Increased the Reload Damage of the Nikola Tesla by 35% (1.0 to 1.35), and the Reload Status Damage by 35% (0.2 to 0.27). Increased the Splash Radius from 100 to 250.
+• Fixed a bug with Spike Shields multiplying their effect on players that had ranged melee weapons.
+• Fixed a bug with the Kowabunga not receiving it's intended Damage Radius.
+• Fixed a bug with the FaceStabby getting Gun Damage Bonuses for its damage instead of Melee Damage Bonuses. Also decreased its Melee Damage buff.
+
+
 1.1.1 Changelog:
 
 • Fixed a bug where Blue Class Mods were not getting their respective buffs.
