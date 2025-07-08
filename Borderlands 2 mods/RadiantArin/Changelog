@@ -1,3 +1,15 @@
+1.1.4 Changelog:
+
+• Fixed the random intermittent crashing occurred from 1.1.2 onwards.
+• Increased the damage of Maya's Cloud Kill by 300% (0.2 to 0.6).
+• 9 new items, split into each of the 5 Headhunter packs.
+• Gave Crawmerax a new loot pool for each of the Legendary Shotguns as well as the new item.
+• Changed Amp Shields to only activate their effects while the Shield is active, as opposed to all the time.
+• Fixed Bee Shield scaling for Grades.
+• Changed Knee-High Nomads to count as Loot enemies! This should make farming in Lynchwood/Sawtooth much better and easier.
+• Changed Wilhelm to not have the Bouncing Bonny and instead gave it to Savage Lee.
+• Zer0 reworks! ...no seriously Zer0 reworks meaning none of the characters were changed.
+
 1.1.3 Changelog:
 
 • Fixed the intermittent crashing that was happening on some maps (perhaps, may need more testing).
