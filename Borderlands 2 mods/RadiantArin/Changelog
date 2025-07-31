@@ -1,3 +1,31 @@
+1.1.6 Changelog:
+
+• Fixed Nova Shield scaling so that enemies don't instantly down you with Nova Shields.
+• Reworked the Lucent Prism. It now functions similar to a Nidhogg in practice; best to aim up with this weapon!
+• Fury was taken out as a skill from Maya's Skill Tree.
+• 1 new weapon and 1 replacement weapon.
+• Enhanced Bloodwing's Health from 21 to 42.
+• Increased Maya Blight Phoenix Damage scaling by 107% (3.5 to 7.25).
+• Made Chain Reaction also be active while Phaselock is active, not while a target is Phaselocked.
+• Fixed SubSequence not applying properly. It should now fully activate its effect without fail.
+• Zero Skill Changes! Rising Shot is a new skill and Ambush's efficiency is doubled.
+• Changing G0 F0r the Eyes to Shield Recharge Rate instead of Shield Capacity because of annoying Shield ping noises.
+• Salvador changes! Upon further inspection of his Skill Tree, a few of his skills were not at the same pace as other VHs, so he is getting a well deserved buff.
+• Added back the Red Text Explainer to the Legendary Sniper Rifles because they were deleted somehow?
+• Fixed G0 F0r the Eyes Presentation still saying "Precision".
+
+1.1.5 Changelog:
+
+• Severely increased the loot quality of DLC1 and DLC3 ending chests (Captain Blade's Lost Treasure Room and H.S.S. Terminus Loot Room). In addition, have made the H.S.S. Terminus Loot Room refarmable! This may be released as a separate mod in the future.
+• Yet another Maya rework! This also includes a couple of new skills and skill swaps.
+• Attempted to fix the Redeemer once again, as its Status damage was not scaling correctly. It should now be scaling correctly.
+• Reduced the damage of the Emergency Meeting by ~35%.
+• Tediore Shield Grades were not working correctly, as very high specials were giving very small buffs to Ammo Regen. This should be fixed.
+• Changed the Cracked Sash Shield. Be on the lookout for a brand new Shield that drops only from Chubby/Tubby Enemies!
+• Changed Gen 2 class mods to be incorporated into the World Drop Pool.
+• Also increased the rate at which Chubby/Tubby enemies spawn. This should primarily make farming in Wildlife/Arid Nexus much easier.
+• Changed Chubby/Tubby Rakks to drop a LOT of money.
+
 1.1.4 Changelog:
 
 • Fixed the random intermittent crashing occurred from 1.1.2 onwards.
