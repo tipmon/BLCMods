@@ -1,5 +1,5 @@
 # [XP & Level Controller]
-*V. 1.0*
+*V. 1.1*
 
 Adds a system to the game that allows you to set a level threshold that makes nothing scale past that point.
 
